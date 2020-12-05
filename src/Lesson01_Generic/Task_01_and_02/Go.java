@@ -1,4 +1,4 @@
-package Lesson01_Generic;
+package Lesson01_Generic.Task_01_and_02;
 
 import java.util.ArrayList;
 import java.util.Arrays;
